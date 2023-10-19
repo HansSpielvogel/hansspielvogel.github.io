@@ -3,7 +3,17 @@ entries:
   hans-test:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-10-19T17:09:31.2876968+02:00"
+    created: "2023-10-19T17:16:23.4981934+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 44d1519adca8121ae29514643082f5b2d0cd6cd6f69a2b513a95437365538b11
+    name: hans-test
+    type: application
+    urls:
+    - hans-test-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-10-19T17:16:23.4976987+02:00"
     description: A Helm chart for Kubernetes
     digest: d84806f593eb571ded8965a7bab974dfab2960597d18e59a6f595c1159316a6a
     name: hans-test
@@ -11,4 +21,4 @@ entries:
     urls:
     - hans-test-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-19T17:09:31.2860321+02:00"
+generated: "2023-10-19T17:16:23.4957+02:00"
